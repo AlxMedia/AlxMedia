@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![twitter](https://img.shields.io/twitter/follow/AlxMedia?style=social)](https://twitter.com/AlxMedia)
-![screenshot](http://dev.alx.media/github-profile.png)
+![screenshot](http://dev.alx.media/github-profile-2.png)
 <!--
 **AlxMedia/AlxMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
